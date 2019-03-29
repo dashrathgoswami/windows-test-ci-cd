@@ -1,0 +1,24 @@
+Deleted Visits:: Processing visitID 309011470. 
+Delete Processs Log details Visits:: Processing visitID 309011470. 
+Single Processs Log details Visits:: Completed visitID 309011470. 
+Deleted Visits:: Completed visitID 309011470. 
+Deleted Visits:: Processing visitID 309011471. 
+Delete Processs Log details Visits:: Processing visitID 309011471. 
+Single Processs Log details Visits:: Completed visitID 309011471. 
+Deleted Visits:: Completed visitID 309011471. 
+Deleted Visits:: Processing visitID 309160269. 
+Delete Processs Log details Visits:: Processing visitID 309160269. 
+Single Processs Log details Visits:: Completed visitID 309160269. 
+Deleted Visits:: Completed visitID 309160269. 
+Deleted Visits:: Processing visitID 309160271. 
+Delete Processs Log details Visits:: Processing visitID 309160271. 
+Single Processs Log details Visits:: Completed visitID 309160271. 
+Deleted Visits:: Completed visitID 309160271. 
+Deleted Visits:: Processing visitID 309160273. 
+Delete Processs Log details Visits:: Processing visitID 309160273. 
+Single Processs Log details Visits:: Completed visitID 309160273. 
+Deleted Visits:: Completed visitID 309160273. 
+Deleted Visits:: Processing visitID 309160277. 
+Delete Processs Log details Visits:: Processing visitID 309160277. 
+Single Processs Log details Visits:: Completed visitID 309160277. 
+Deleted Visits:: Completed visitID 309160277. 
